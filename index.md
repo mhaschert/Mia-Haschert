@@ -1,2 +1,2 @@
 # About Mia Haschert
-[Leadership](mhaschert/Mia-Haschert/leadership.md)
+[Leadership](/leadership.md)
